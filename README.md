@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @prretik05
+- 👋 Hi, I’m Preeti Kumari
+- From UPES,Dehradun pursuing Btech CSE 
 - 👀 I’m interested in Web development and game development
-- 🌱 I’m currently learning Game development and i am a 1st yr student from India
 - 💞️ I’m looking to collaborate on with anyone
 
 <!---
