@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Preeti Kumari
 - From UPES,Dehradun pursuing Btech CSE 
-- 👀 I’m interested in Web development and game development
+- 👀 I’m currently working on game dev
 - 💞️ I’m looking to collaborate on with anyone
 
 <!---
